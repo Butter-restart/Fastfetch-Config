@@ -1,12 +1,12 @@
-# fastfetch-config
+# ALRRRIGGGGTTT!!!
 
-my fastfetch config for arch + kde plasma.
+so I put a "Tess" banner at the top, kept a ghost logo (`ghost.txt`) cuz like why not, and set up sectioned boxes with red keys, progress bars, and pacman colors at the bottom.
 
-put a "Tess" banner at the top, kept a braille ghost logo (`ghost.txt`), and set up sectioned boxes with red keys, progress bars, and pacman/ghost colors at the bottom. also still have my older logo files (`FUCK YEAAAAA.png`, `shut.png`, `sc.txt`) around if i want to swap back.
-
-## setup
+## SO YOU WANNA USE THIS EH 
 
 drop the files into `~/.config/fastfetch/`:
+if you dont have that directory (peasant) 
+then 
 
 ```bash
 mkdir -p ~/.config/fastfetch
@@ -23,4 +23,3 @@ fastfetch
 
 - you'll want a nerd font set in your terminal or some of the icons/lines will look like boxes.
 - if you swap the logo in `config.jsonc`, keep the path pointing to `~/.config/fastfetch/...` so it finds the file no matter where you run `fastfetch` from.
-- tweak colors (`38;2;...`) or modules in `config.jsonc` whenever you feel like changing how it looks.# Fastfetch-Config
